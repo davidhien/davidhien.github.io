@@ -1,14 +1,14 @@
 # David Hien
 *Department of Mathematics*\
-*TU Munich*\
-*Boltzmannstr. 3*\
-*85748 Garching b. München*\
-*room: 02.08.057*
+*Rutgers, The State University of New Jersey*\
+*110 Frelinghusen Rd*\
+*Piscataway, NJ 08854*\
+*office: Hill 269*
 
-e-mail: david.hien (at) tum.de
+e-mail: david.hien (at) rutgers.edu
 
 ### About me
-I am a PhD student in the Department of Mathematics at TU Munich supervised by Oliver Junge and Ulrich Bauer.
+I am a Hill Visiting Assistant Professor at Rutgers University.
 In my research, I mostly study complex dynamics using tools from applied algebraic topology.
 
 ### Preprints

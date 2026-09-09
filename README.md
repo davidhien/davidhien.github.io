@@ -4,7 +4,7 @@
 *Rutgers, The State University of New Jersey*\
 *110 Frelinghusen Rd*\
 *Piscataway, NJ 08854*\
-*office: Hill 269*\
+*office: Hill 269*
 
 e-mail: david.hien (at) rutgers.edu
 

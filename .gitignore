@@ -1,0 +1,6 @@
+_site
+.sass-cache
+*.gem
+.DS_Store
+.jekyll-cache
+git-update.sh

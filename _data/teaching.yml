@@ -1,0 +1,21 @@
+# Courses grouped by institution. Institutions and courses are shown in the order listed here.
+# Fields per course: title (required), term, role, link (all optional).
+# Titles containing a colon need to be in quotes!
+
+- institution: Rutgers University
+  courses:
+    - title: "Math 350: Linear Algebra"
+      term: Fall 2026
+      role: Lecture
+    - title: "Math 321: Introduction to Applied Mathematics"
+      term: Fall 2026
+      role: Lecture
+    - title: "Math 481: Mathematical Theory of Statistics"
+      term: Spring 2026
+      role: Lecture
+    - title: "Math 357: Topics in Applied Algebra"
+      term: Spring 2026
+      role: Lecture
+    - title: "Math 321: Introduction to Applied Mathematics"
+      term: Fall 2025
+      role: Lecture

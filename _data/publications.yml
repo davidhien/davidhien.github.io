@@ -1,0 +1,22 @@
+main:
+
+  - title: "Distance Matrices of Ordered Point Clouds and Their Persistent Homology"
+    authors: <strong>David Hien</strong>
+    conference: Journal of Applied and Computational Topology (accepted), 2026.
+    pdf: https://arxiv.org/pdf/2608.12620
+    arxiv: https://arxiv.org/abs/2608.12620
+    code: https://github.com/davidhien/DistanceMatrixPersistenceCode
+
+  - title: "Cycling Signatures: Identifying cycling motions in time series using algebraic topology"
+    authors: Ulrich Bauer, <strong>David Hien</strong>, Oliver Junge, Konstantin Mischaikow
+    conference: Journal of Computational Dynamics 12(4), 554–595, 2025.
+    pdf: https://arxiv.org/pdf/2312.04734
+    arxiv: https://arxiv.org/abs/2312.04734
+    journal: https://doi.org/10.3934/jcd.2025007
+    code: https://github.com/davidhien/CyclingSignatures.jl
+
+  - title: "Combinatorial models of global dynamics: learning cycling motion from data"
+    authors: Ulrich Bauer, <strong>David Hien</strong>, Oliver Junge, Konstantin Mischaikow, Max Snijders
+    conference: arXiv preprint arXiv:2001.07066, 2021.
+    pdf: https://arxiv.org/pdf/2001.07066
+    arxiv: https://arxiv.org/abs/2001.07066

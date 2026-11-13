@@ -2,9 +2,10 @@ main:
 
   - title: "Distance Matrices of Ordered Point Clouds and Their Persistent Homology"
     authors: <strong>David Hien</strong>
-    conference: Journal of Applied and Computational Topology (accepted), 2026.
+    conference: Journal of Applied and Computational Topology 10(4), 33, 2026.
     pdf: https://arxiv.org/pdf/2608.12620
     arxiv: https://arxiv.org/abs/2608.12620
+    journal: https://doi.org/10.1007/s41468-026-00261-z
     code: https://github.com/davidhien/DistanceMatrixPersistenceCode
 
   - title: "Cycling Signatures: Identifying cycling motions in time series using algebraic topology"

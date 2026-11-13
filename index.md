@@ -16,8 +16,8 @@ I currently organize the [ACM seminar](https://sites.rutgers.edu/acm-seminar/) a
 ## News
 
 - **[Nov. 2026]** I will give a talk at [SIAM MDS26](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=89750).
+- **[Nov. 2026]** My paper "[Distance Matrices of Ordered Point Clouds and Their Persistent Homology](https://doi.org/10.1007/s41468-026-00261-z)" has been published in the Journal of Applied and Computational Topology.
 - **[Oct. 2026]** I gave a talk at the [UAlbany ATiA seminar](https://albanymath.github.io/ATiA/).
-- **[Oct. 2026]** My paper "[Distance Matrices of Ordered Point Clouds and Their Persistent Homology](https://arxiv.org/abs/2608.12620)" was accepted at the Journal of Applied and Computational Topology.
 - **[Oct. 2026]** I gave a talk at the [Math and Data Seminar](https://sites.google.com/view/rutgers-math-data-seminar/) at Rutgers.
 
 
